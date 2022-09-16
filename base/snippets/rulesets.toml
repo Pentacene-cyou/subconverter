@@ -7,6 +7,10 @@ group = "Ⓜ️ 微软服务"
 ruleset = "rules/MSServices.list"
 
 [[rulesets]]
+group = "📚 学术网站"
+ruleset = "rules/Academic.list"
+
+[[rulesets]]
 group = "🎯 全球直连"
 ruleset = "rules/DivineEngine/Surge/Ruleset/Unbreak.list"
 
