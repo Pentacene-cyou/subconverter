@@ -1,5 +1,6 @@
 🎯 全球直连,rules/LocalAreaNetwork.list
 Ⓜ️ 微软服务,rules/MSServices.list
+📚 学术网站,rules/Academic.list
 🎯 全球直连,rules/DivineEngine/Surge/Ruleset/Unbreak.list
 🛑 全球拦截,rules/NobyDa/Surge/AdRule.list
 🛑 全球拦截,rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list
